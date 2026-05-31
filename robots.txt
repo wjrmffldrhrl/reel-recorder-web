@@ -1,0 +1,6 @@
+# ⚠️ YOUR_DOMAIN을 실제 도메인으로 변경하세요
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://YOUR_DOMAIN/sitemap.xml
