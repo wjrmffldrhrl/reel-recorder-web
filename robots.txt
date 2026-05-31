@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://YOUR_DOMAIN/sitemap.xml
+Sitemap: https://wjrmffldrhrl.github.io/reel-recorder-web/sitemap.xml
